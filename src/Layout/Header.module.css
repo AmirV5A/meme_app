@@ -1,0 +1,37 @@
+.Header {
+    width: 10%;
+    height: 70px;
+    background-color: #88FEFF;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.Header img {
+    width: 60px;
+    height: 60px;
+    margin-left: 5px;
+}
+
+.btn_dark {
+    border: none;
+    text-decoration: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.moon {
+    width: 35px;
+    height: 35px;
+   
+}
+
+.sun {
+    width: 40px;
+    height: 40px;
+    color: #030302;
+    border-radius: 10px;
+}
+

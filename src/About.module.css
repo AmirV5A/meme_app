@@ -1,0 +1,35 @@
+.Conatinar {
+    padding: 15px;
+}
+
+.Conatinar h2 {
+    text-align: center;
+    block-size: auto;
+}
+
+.about_dess {
+    display: grid;
+    gap: 8px;
+
+}
+
+.about_des {
+    background-color: #112535;
+    border-radius: 15px;
+   color: aliceblue;
+   text-align: center;
+   padding: 50px;
+}
+.about_text {
+    margin-top: 15px;
+    text-align: center;
+    line-height: 1.5rem;
+   
+}
+
+.about_name {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-weight: 450;
+    font-size: 1.9rem;
+}

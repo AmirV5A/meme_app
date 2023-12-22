@@ -1,0 +1,69 @@
+.Conatinar {
+    background-color: #112535;
+    gap: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.homeText {
+    padding: 12px;
+    color: aliceblue;
+    font-weight: 600;
+    margin-bottom:20px;
+    
+}
+
+.homeText h1 {
+    margin-bottom: 15px;
+}
+
+.home_des {
+    font-size: 1rem;
+    margin-bottom: 13px;
+}
+
+.btn_buy {
+    line-height: 1.5rem;
+    margin: 1px;
+    margin-top: 11px;
+    width: fit-content;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    padding: 8px 15px;
+    border-radius: 18px;
+    background-color: azure;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.btn_buy a {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+    font-size: 0.85rem;
+}
+
+.socialAll {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 15px;
+
+}
+
+
+
+.tel , .x , .youtube , .tiktok {
+    width: 25px;
+    height: 25px;
+    color: aliceblue;
+}
+.imageHome img {
+  width: 430px;
+  height: 360px;
+  margin-bottom: 0px;
+}

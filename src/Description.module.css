@@ -1,0 +1,29 @@
+.Conatinar {
+    max-width: auto;
+    padding: 15px;
+}
+
+.Conatinar_1 {
+    display: grid;
+    gap: 8px;
+}
+
+.des_s {
+   background-image: url(/src/assets/feature_bg.png);
+   border-radius: 15px;
+   color: aliceblue;
+   align-items: center;
+   padding: 50px;
+}
+
+.des_ss {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    line-height: 1.5rem;
+    text-align: center;
+}
+
+.des_ss h2 {
+    
+    margin-bottom: 30px;
+}
